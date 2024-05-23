@@ -1,2 +1,2 @@
 # BaseChange
-Changing numebrs from one base to another
+Changing numbers from one base to another
